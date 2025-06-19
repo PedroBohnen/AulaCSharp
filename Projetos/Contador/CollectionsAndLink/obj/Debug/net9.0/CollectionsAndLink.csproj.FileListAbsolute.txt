@@ -1,0 +1,14 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\bin\Debug\net9.0\CollectionsAndLink.exe
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\bin\Debug\net9.0\CollectionsAndLink.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\bin\Debug\net9.0\CollectionsAndLink.runtimeconfig.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\bin\Debug\net9.0\CollectionsAndLink.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\bin\Debug\net9.0\CollectionsAndLink.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\obj\Debug\net9.0\CollectionsAndLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\obj\Debug\net9.0\CollectionsAndLink.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\obj\Debug\net9.0\CollectionsAndLink.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\obj\Debug\net9.0\CollectionsAndLink.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\obj\Debug\net9.0\CollectionsAndLink.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\obj\Debug\net9.0\refint\CollectionsAndLink.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\obj\Debug\net9.0\CollectionsAndLink.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\obj\Debug\net9.0\CollectionsAndLink.genruntimeconfig.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CollectionsAndLink\obj\Debug\net9.0\ref\CollectionsAndLink.dll

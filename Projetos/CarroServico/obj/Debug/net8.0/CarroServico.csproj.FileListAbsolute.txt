@@ -1,0 +1,11 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\bin\Debug\net8.0\CarroServico.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\bin\Debug\net8.0\CarroServico.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\bin\Debug\net8.0\CarroServico.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\obj\Debug\net8.0\CarroServico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\obj\Debug\net8.0\CarroServico.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\obj\Debug\net8.0\CarroServico.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\obj\Debug\net8.0\CarroServico.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\obj\Debug\net8.0\CarroServico.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\obj\Debug\net8.0\refint\CarroServico.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\obj\Debug\net8.0\CarroServico.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\CarroServico\obj\Debug\net8.0\ref\CarroServico.dll

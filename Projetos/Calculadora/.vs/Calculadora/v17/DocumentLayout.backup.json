@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F5DDC-10FF-49ED-ACC4-BE2B45D633CA}|Calculadora.csproj|c:\\users\\pedroaugustobohnendo\\source\\repos\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F5DDC-10FF-49ED-ACC4-BE2B45D633CA}|Calculadora.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F5DDC-10FF-49ED-ACC4-BE2B45D633CA}|Calculadora.csproj|c:\\users\\pedroaugustobohnendo\\source\\repos\\calculadora\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F5DDC-10FF-49ED-ACC4-BE2B45D633CA}|Calculadora.csproj|solutionrelative:constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F5DDC-10FF-49ED-ACC4-BE2B45D633CA}|Calculadora.csproj|c:\\users\\pedroaugustobohnendo\\source\\repos\\calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F5DDC-10FF-49ED-ACC4-BE2B45D633CA}|Calculadora.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Calculadora\\Constantes.cs",
+              "RelativeDocumentMoniker": "Constantes.cs",
+              "ToolTip": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Calculadora\\Constantes.cs",
+              "RelativeToolTip": "Constantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:15:07.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Calculadora\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Calculadora\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:00:23.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:57:11.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

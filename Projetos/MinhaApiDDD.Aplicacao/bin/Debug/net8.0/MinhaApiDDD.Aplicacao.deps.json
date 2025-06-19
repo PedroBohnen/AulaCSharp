@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MinhaApiDDD.Aplicacao/1.0.0": {
+        "dependencies": {
+          "MinhaApiDDD.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "MinhaApiDDD.Aplicacao.dll": {}
+        }
+      },
+      "MinhaApiDDD.Dominio/1.0.0": {
+        "runtime": {
+          "MinhaApiDDD.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinhaApiDDD.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinhaApiDDD.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\bin\Debug\net8.0\MinhaApiDDD.DataTransfer.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\bin\Debug\net8.0\MinhaApiDDD.DataTransfer.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\bin\Debug\net8.0\MinhaApiDDD.DataTransfer.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\obj\Debug\net8.0\MinhaApiDDD.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\obj\Debug\net8.0\MinhaApiDDD.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\obj\Debug\net8.0\MinhaApiDDD.DataTransfer.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\obj\Debug\net8.0\MinhaApiDDD.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\obj\Debug\net8.0\MinhaApiDDD.DataTransfer.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\obj\Debug\net8.0\refint\MinhaApiDDD.DataTransfer.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\obj\Debug\net8.0\MinhaApiDDD.DataTransfer.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.DataTransfer\obj\Debug\net8.0\ref\MinhaApiDDD.DataTransfer.dll

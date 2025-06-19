@@ -1,0 +1,11 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\bin\Debug\net8.0\MinhaApiDDD.Dominio.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\bin\Debug\net8.0\MinhaApiDDD.Dominio.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\bin\Debug\net8.0\MinhaApiDDD.Dominio.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\obj\Debug\net8.0\MinhaApiDDD.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\obj\Debug\net8.0\MinhaApiDDD.Dominio.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\obj\Debug\net8.0\MinhaApiDDD.Dominio.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\obj\Debug\net8.0\MinhaApiDDD.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\obj\Debug\net8.0\MinhaApiDDD.Dominio.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\obj\Debug\net8.0\refint\MinhaApiDDD.Dominio.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\obj\Debug\net8.0\MinhaApiDDD.Dominio.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Dominio\obj\Debug\net8.0\ref\MinhaApiDDD.Dominio.dll

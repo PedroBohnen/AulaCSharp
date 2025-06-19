@@ -1,0 +1,14 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\bin\Debug\net9.0\ProjetoPedro.exe
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\bin\Debug\net9.0\ProjetoPedro.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\bin\Debug\net9.0\ProjetoPedro.runtimeconfig.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\bin\Debug\net9.0\ProjetoPedro.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\bin\Debug\net9.0\ProjetoPedro.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\obj\Debug\net9.0\ProjetoPedro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\obj\Debug\net9.0\ProjetoPedro.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\obj\Debug\net9.0\ProjetoPedro.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\obj\Debug\net9.0\ProjetoPedro.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\obj\Debug\net9.0\ProjetoPedro.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\obj\Debug\net9.0\refint\ProjetoPedro.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\obj\Debug\net9.0\ProjetoPedro.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\obj\Debug\net9.0\ProjetoPedro.genruntimeconfig.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\Projeto-Pedro\obj\Debug\net9.0\ref\ProjetoPedro.dll

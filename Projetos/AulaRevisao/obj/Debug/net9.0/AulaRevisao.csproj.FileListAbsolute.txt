@@ -1,0 +1,14 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\bin\Debug\net9.0\AulaRevisao.exe
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\bin\Debug\net9.0\AulaRevisao.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\bin\Debug\net9.0\AulaRevisao.runtimeconfig.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\bin\Debug\net9.0\AulaRevisao.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\bin\Debug\net9.0\AulaRevisao.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\obj\Debug\net9.0\AulaRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\obj\Debug\net9.0\AulaRevisao.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\obj\Debug\net9.0\AulaRevisao.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\obj\Debug\net9.0\AulaRevisao.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\obj\Debug\net9.0\AulaRevisao.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\obj\Debug\net9.0\refint\AulaRevisao.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\obj\Debug\net9.0\AulaRevisao.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\obj\Debug\net9.0\AulaRevisao.genruntimeconfig.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\AulaRevisao\obj\Debug\net9.0\ref\AulaRevisao.dll

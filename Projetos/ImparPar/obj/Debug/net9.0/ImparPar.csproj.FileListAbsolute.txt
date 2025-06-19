@@ -1,0 +1,14 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\bin\Debug\net9.0\ImparPar.exe
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\bin\Debug\net9.0\ImparPar.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\bin\Debug\net9.0\ImparPar.runtimeconfig.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\bin\Debug\net9.0\ImparPar.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\bin\Debug\net9.0\ImparPar.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\obj\Debug\net9.0\ImparPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\obj\Debug\net9.0\ImparPar.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\obj\Debug\net9.0\ImparPar.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\obj\Debug\net9.0\ImparPar.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\obj\Debug\net9.0\ImparPar.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\obj\Debug\net9.0\refint\ImparPar.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\obj\Debug\net9.0\ImparPar.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\obj\Debug\net9.0\ImparPar.genruntimeconfig.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\ImparPar\obj\Debug\net9.0\ref\ImparPar.dll

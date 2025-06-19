@@ -1,0 +1,6 @@
+@CadastroDeCarro_HostAddress = http://localhost:5209
+
+GET {{CadastroDeCarro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

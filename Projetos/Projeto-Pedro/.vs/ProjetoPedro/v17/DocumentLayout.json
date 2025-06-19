@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4739138C-337B-40C9-9F32-45FDFE3047EC}|ProjetoPedro.csproj|c:\\users\\pedroaugustobohnendo\\source\\repos\\projeto-pedro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739138C-337B-40C9-9F32-45FDFE3047EC}|ProjetoPedro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739138C-337B-40C9-9F32-45FDFE3047EC}|ProjetoPedro.csproj|c:\\users\\pedroaugustobohnendo\\source\\repos\\projeto-pedro\\calculadoraimc\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739138C-337B-40C9-9F32-45FDFE3047EC}|ProjetoPedro.csproj|solutionrelative:calculadoraimc\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739138C-337B-40C9-9F32-45FDFE3047EC}|ProjetoPedro.csproj|c:\\users\\pedroaugustobohnendo\\source\\repos\\projeto-pedro\\banco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739138C-337B-40C9-9F32-45FDFE3047EC}|ProjetoPedro.csproj|solutionrelative:banco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739138C-337B-40C9-9F32-45FDFE3047EC}|ProjetoPedro.csproj|c:\\users\\pedroaugustobohnendo\\source\\repos\\projeto-pedro\\media\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739138C-337B-40C9-9F32-45FDFE3047EC}|ProjetoPedro.csproj|solutionrelative:media\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739138C-337B-40C9-9F32-45FDFE3047EC}|ProjetoPedro.csproj|c:\\users\\pedroaugustobohnendo\\source\\repos\\projeto-pedro\\media\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739138C-337B-40C9-9F32-45FDFE3047EC}|ProjetoPedro.csproj|solutionrelative:media\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\CalculadoraImc\\calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraImc\\calculadora.cs",
+              "ToolTip": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\CalculadoraImc\\calculadora.cs",
+              "RelativeToolTip": "CalculadoraImc\\calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:04:21.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\media\\Aluno.cs",
+              "RelativeDocumentMoniker": "media\\Aluno.cs",
+              "ToolTip": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\media\\Aluno.cs",
+              "RelativeToolTip": "media\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:04:12.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\media\\Pessoa.cs",
+              "RelativeDocumentMoniker": "media\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\media\\Pessoa.cs",
+              "RelativeToolTip": "media\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:04:10.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\Banco\\Conta.cs",
+              "RelativeDocumentMoniker": "Banco\\Conta.cs",
+              "ToolTip": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\Banco\\Conta.cs",
+              "RelativeToolTip": "Banco\\Conta.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:15:50.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PEDROAUGUSTOBOHNENDO\\source\\repos\\Projeto-Pedro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:22:01.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

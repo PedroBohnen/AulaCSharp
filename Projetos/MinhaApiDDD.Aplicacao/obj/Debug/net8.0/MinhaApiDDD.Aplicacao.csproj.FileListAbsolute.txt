@@ -1,0 +1,15 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\bin\Debug\net8.0\MinhaApiDDD.Aplicacao.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\bin\Debug\net8.0\MinhaApiDDD.Aplicacao.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\bin\Debug\net8.0\MinhaApiDDD.Aplicacao.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\bin\Debug\net8.0\MinhaApiDDD.Dominio.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\bin\Debug\net8.0\MinhaApiDDD.Dominio.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\obj\Debug\net8.0\MinhaApiDDD.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\obj\Debug\net8.0\MinhaApiDDD.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\obj\Debug\net8.0\MinhaApiDDD.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\obj\Debug\net8.0\MinhaApiDDD.Aplicacao.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\obj\Debug\net8.0\MinhaApiDDD.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\obj\Debug\net8.0\MinhaApi.7342B29D.Up2Date
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\obj\Debug\net8.0\MinhaApiDDD.Aplicacao.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\obj\Debug\net8.0\refint\MinhaApiDDD.Aplicacao.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\obj\Debug\net8.0\MinhaApiDDD.Aplicacao.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\repos\MinhaApiDDD.Aplicacao\obj\Debug\net8.0\ref\MinhaApiDDD.Aplicacao.dll
