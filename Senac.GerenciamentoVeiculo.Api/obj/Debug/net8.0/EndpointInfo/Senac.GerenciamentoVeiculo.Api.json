@@ -1,0 +1,186 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Senac.GerenciamentoVeiculo.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/carro": {
+      "get": {
+        "tags": [
+          "CarroContoller"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "CarroContoller"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CadastrarRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CadastrarRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CadastrarRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/carro/{id}": {
+      "get": {
+        "tags": [
+          "CarroContoller"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "CarroContoller"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "CarroContoller"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AtualizarRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AtualizarRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AtualizarRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AtualizarRequest": {
+        "type": "object",
+        "properties": {
+          "placa": {
+            "type": "string",
+            "nullable": true
+          },
+          "cor": {
+            "type": "string",
+            "nullable": true
+          },
+          "tipoCombustivel": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CadastrarRequest": {
+        "type": "object",
+        "properties": {
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "marca": {
+            "type": "string",
+            "nullable": true
+          },
+          "placa": {
+            "type": "string",
+            "nullable": true
+          },
+          "cor": {
+            "type": "string",
+            "nullable": true
+          },
+          "anoFabricacao": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tipoCombustivel": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

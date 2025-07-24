@@ -1,0 +1,16 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\Senac.LocaGames.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\Senac.LocaGames.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\Senac.LocaGames.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\Senac.LocaGames.Infra.Data.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\Senac.LocaGames.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\Senac.LocaGames.Infra.Data.sourcelink.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\bin\Debug\net8.0\Senac.LocaGames.Infra.Data.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\bin\Debug\net8.0\Senac.LocaGames.Infra.Data.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\bin\Debug\net8.0\Senac.LocaGames.Infra.Data.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\bin\Debug\net8.0\Senac.LocaGames.Domain.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\bin\Debug\net8.0\Senac.LocaGames.Domain.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\Senac.Lo.F883D34C.Up2Date
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\Senac.LocaGames.Infra.Data.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\refint\Senac.LocaGames.Infra.Data.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\Senac.LocaGames.Infra.Data.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Infra.Data\obj\Debug\net8.0\ref\Senac.LocaGames.Infra.Data.dll

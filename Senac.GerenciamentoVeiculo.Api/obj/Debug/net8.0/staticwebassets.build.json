@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "u5aNziWAlNT0KmdiknSKyy/M/kT105Bbj1HTI5wdHJs=",
+  "Source": "Senac.GerenciamentoVeiculo.Api",
+  "BasePath": "_content/Senac.GerenciamentoVeiculo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

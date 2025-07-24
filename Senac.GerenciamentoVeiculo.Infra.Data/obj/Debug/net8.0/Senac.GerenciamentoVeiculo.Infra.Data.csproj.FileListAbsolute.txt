@@ -1,0 +1,16 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\bin\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\bin\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\bin\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\bin\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\bin\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.sourcelink.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\Senac.Ge.28F87DF5.Up2Date
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\refint\Senac.GerenciamentoVeiculo.Infra.Data.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoVeiculo.Infra.Data.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerenciamentoVeiculo.Infra.Data\obj\Debug\net8.0\ref\Senac.GerenciamentoVeiculo.Infra.Data.dll

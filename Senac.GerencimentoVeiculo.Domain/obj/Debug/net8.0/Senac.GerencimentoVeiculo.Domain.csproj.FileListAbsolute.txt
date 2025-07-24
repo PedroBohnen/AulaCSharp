@@ -1,0 +1,12 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\bin\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\bin\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\bin\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\obj\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\obj\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\obj\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\obj\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\obj\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.sourcelink.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\obj\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\obj\Debug\net8.0\refint\Senac.GerencimentoVeiculo.Domain.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\obj\Debug\net8.0\Senac.GerencimentoVeiculo.Domain.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.GerencimentoVeiculo.Domain\obj\Debug\net8.0\ref\Senac.GerencimentoVeiculo.Domain.dll

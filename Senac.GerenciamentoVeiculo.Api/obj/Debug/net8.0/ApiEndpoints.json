@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Senac.GerenciamentoVeiculo.Api.Controllers.CarroContoller",
+    "Method": "ObterTodos",
+    "RelativePath": "carro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Senac.GerenciamentoVeiculo.Api.Controllers.CarroContoller",
+    "Method": "Cadastrar",
+    "RelativePath": "carro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cadastrarRequest",
+        "Type": "Senac.GerencimentoVeiculo.Domain.Dtos.Requests.Carro.CadastrarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Senac.GerenciamentoVeiculo.Api.Controllers.CarroContoller",
+    "Method": "ObterDetlhadoPorId",
+    "RelativePath": "carro/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Senac.GerenciamentoVeiculo.Api.Controllers.CarroContoller",
+    "Method": "DeletarPorId",
+    "RelativePath": "carro/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Senac.GerenciamentoVeiculo.Api.Controllers.CarroContoller",
+    "Method": "AtualizarPorId",
+    "RelativePath": "carro/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "atualizarRequest",
+        "Type": "Senac.GerencimentoVeiculo.Domain.Dtos.Requests.Carro.AtualizarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

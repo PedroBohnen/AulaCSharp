@@ -1,0 +1,12 @@
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\bin\Debug\net8.0\Senac.LocaGames.Domain.deps.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\bin\Debug\net8.0\Senac.LocaGames.Domain.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\bin\Debug\net8.0\Senac.LocaGames.Domain.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\obj\Debug\net8.0\Senac.LocaGames.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\obj\Debug\net8.0\Senac.LocaGames.Domain.AssemblyInfoInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\obj\Debug\net8.0\Senac.LocaGames.Domain.AssemblyInfo.cs
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\obj\Debug\net8.0\Senac.LocaGames.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\obj\Debug\net8.0\Senac.LocaGames.Domain.sourcelink.json
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\obj\Debug\net8.0\Senac.LocaGames.Domain.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\obj\Debug\net8.0\refint\Senac.LocaGames.Domain.dll
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\obj\Debug\net8.0\Senac.LocaGames.Domain.pdb
+C:\Users\PEDROAUGUSTOBOHNENDO\source\AulaCSharp\Projetos\Senac.LocaGames.Domain\obj\Debug\net8.0\ref\Senac.LocaGames.Domain.dll

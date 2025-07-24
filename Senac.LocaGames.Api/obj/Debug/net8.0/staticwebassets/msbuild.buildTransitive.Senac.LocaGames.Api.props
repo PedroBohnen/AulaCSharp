@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Senac.LocaGames.Api.props" />
+</Project>

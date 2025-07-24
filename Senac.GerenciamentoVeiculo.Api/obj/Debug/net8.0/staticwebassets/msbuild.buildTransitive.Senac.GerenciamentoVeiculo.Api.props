@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Senac.GerenciamentoVeiculo.Api.props" />
+</Project>
